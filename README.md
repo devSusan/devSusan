@@ -13,7 +13,7 @@
 
 
 <details>
-    <summary style="font-size:2em"><strong>🛠 &nbsp;Technical Skills </strong></summary>
+    ###🛠 &nbsp;Technical Skills
     <ul style="list-style:none">
         <li>
            &nbsp; <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
