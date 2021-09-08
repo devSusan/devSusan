@@ -12,23 +12,15 @@
 ✔️ &nbsp;저에 대해 궁금하시다면, 제 <a href="https://san2.notion.site/Engineering-Wiki-8068c01302af4211b36a4e27b5c101e6">소개 페이지</a>를 방문해주세요.
 
 
-<details>
-    ###🛠 &nbsp;Technical Skills
-    <ul style="list-style:none">
-        <li>
-           &nbsp; <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-           &nbsp; <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-           &nbsp; <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
-           &nbsp; <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
-        </li>
-        <li>
-           &nbsp; <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a>
-           &nbsp; <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
-           &nbsp; <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
-        </li>
-    </ul>
-</details>
-
+### 🛠 &nbsp;Technical Skills
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)&nbsp;\
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)&nbsp;
+![PostgreSQL](ttps://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)&nbsp;
+<br/>
 
 <!--### 💻 &nbsp;GitHub Analytics-->
 
