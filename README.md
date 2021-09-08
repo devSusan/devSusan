@@ -1,4 +1,4 @@
-<a href="https://san2.notion.site/Engineering-Wiki-8068c01302af4211b36a4e27b5c101e6"><img src="https://img.shields.io/badge/Porfoilo-link-blue"/></a>
+<a href="https://san2.notion.site/Portfolio-eff471bff91c4ac7a30d10e70082c913"><img src="https://img.shields.io/badge/Porfoilo-link-blue"/></a>
 ![https://komarev.com/ghpvc/?username=devSusan](https://komarev.com/ghpvc/?username=devSusan)
 
 
@@ -9,7 +9,7 @@
 ✔️ &nbsp;목표를 정하고 세분화하여 추진하는 방법을 선호합니다.\
 ✔️ &nbsp;해야 할 일을 마치고 느끼는 뿌듯한 기분을 참 좋아합니다.\
 ✔️ &nbsp;신기술에 대한 호기심이 많습니다.\
-✔️ &nbsp;저에 대해 궁금하시다면, 제 <a href="https://san2.notion.site/Engineering-Wiki-8068c01302af4211b36a4e27b5c101e6">소개 페이지</a>를 방문해주세요.
+✔️ &nbsp;저에 대해 궁금하시다면, 제 <a href="https://san2.notion.site/Portfolio-eff471bff91c4ac7a30d10e70082c913">소개 페이지</a>를 방문해주세요.
 
 
 ### 🛠 &nbsp;Technical Skills
