@@ -5,7 +5,7 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> &nbsp;백엔드 개발자 Susan 입니다. ☺️
 
 ✔️ &nbsp;주력 언어는 JAVA 입니다.\
-✔️ &nbsp;클린코드에 대한 고민이 많고 공부중입니다.\
+✔️ &nbsp;클린코드에 대한 고민하는 단계입니다.\
 ✔️ &nbsp;목표를 정하고 세분화하여 추진하는 방법을 선호합니다.\
 ✔️ &nbsp;해야 할 일을 마치고 느끼는 뿌듯한 기분을 참 좋아합니다.\
 ✔️ &nbsp;신기술에 대한 호기심이 많습니다.\
